@@ -73,7 +73,7 @@ int main()
     fpointer_04(shift_array, shift_boofer, shift_value, length_04);
     fpointer_00(shift_array, length_04);
 
-    cout << endl;
+    cout << endl << endl;
 
     return 0;
 }
